@@ -1,0 +1,8 @@
+prefix=/media/sp/lx/ubuntu/optimal/install
+
+Name: contrst_ceres
+Description: Description of contrst_ceres
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

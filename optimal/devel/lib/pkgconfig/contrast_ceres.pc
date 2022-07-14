@@ -1,0 +1,8 @@
+prefix=/media/sp/lx/ubuntu/optimal/devel
+
+Name: contrast_ceres
+Description: Description of contrast_ceres
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

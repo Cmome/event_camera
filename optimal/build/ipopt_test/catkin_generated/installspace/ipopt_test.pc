@@ -1,0 +1,8 @@
+prefix=/media/sp/lx/ubuntu/optimal/install
+
+Name: ipopt_test
+Description: Description of ipopt_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

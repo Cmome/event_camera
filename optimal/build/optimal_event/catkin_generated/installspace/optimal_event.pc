@@ -1,0 +1,8 @@
+prefix=/media/sp/lx/ubuntu/optimal/install
+
+Name: optimal_event
+Description: Description of optimal_event
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

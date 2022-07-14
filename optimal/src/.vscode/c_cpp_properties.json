@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/media/sp/lx/ubuntu/optimal/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/media/sp/lx/ubuntu/optimal/src/contrast/include/**",
+        "/media/sp/lx/ubuntu/optimal/src/dvs_msgs/include/**",
+        "/media/sp/lx/ubuntu/optimal/src/ipopt_test/include/**",
+        "/media/sp/lx/ubuntu/optimal/src/optimal_event/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

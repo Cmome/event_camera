@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/sp/ROS_Gazebo_learning/quad_ws/devel/include/**",
+                "/home/sp/pibot_ros/ros_ws/devel/include/**",
+                "/media/sp/lx/ubuntu/optimal/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/media/sp/lx/ubuntu/optimal/src/dvs_msgs/include/**",
+                "/media/sp/lx/ubuntu/optimal/src/optimal_event/include/**",
+                "/home/sp/pibot_ros/ros_ws/src/imu_complementary_filter/include/**",
+                "/home/sp/pibot_ros/ros_ws/src/imu_filter_madgwick/include/**",
+                "/media/sp/lx/ubuntu/optimal/src/ipopt_test/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/mav_comm/mav_msgs/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/ROS_quadrotor_simulator/moveit_simple_controller_manager/include/**",
+                "/media/sp/lx/ubuntu/optimal/src/optimal_event/include/**",
+                "/home/sp/pibot_ros/ros_ws/src/pibot_bringup/include/**",
+                "/home/sp/pibot_ros/ros_ws/src/pibot_imu/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/mav_comm/planning_msgs/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/ROS_quadrotor_simulator/quad_control/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/ROS_quadrotor_simulator/quad_joystick_interface/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/rotors_simulator/rotors_control/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/rotors_simulator/rotors_gazebo_plugins/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/rotors_simulator/rotors_joy_interface/include/**",
+                "/home/sp/ROS_Gazebo_learning/quad_ws/src/rotors_simulator/rotors_model/include/**",
+                "/usr/include/**",
+                "/usr/local/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/home/sp/gcc-arm-none-eabi-7-2017-q4-major/bin/arm-none-eabi-g++",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}

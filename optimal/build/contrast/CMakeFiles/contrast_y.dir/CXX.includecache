@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sp/lx/ubuntu/optimal/src/contrast/src/contrast_y.cpp
+sstream
+-
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+cmath
+-
+memory
+-
+cstring
+-
+

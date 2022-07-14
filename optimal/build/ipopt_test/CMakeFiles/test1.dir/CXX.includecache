@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sp/lx/ubuntu/optimal/src/ipopt_test/src/test.cpp
+iostream
+-
+cppad/ipopt/solve.hpp
+-
+

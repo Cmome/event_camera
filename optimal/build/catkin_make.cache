@@ -1,0 +1,2 @@
+contrast:dvs_msgs:ipopt_test:optimal_event
+-DCATKIN_DEVEL_PREFIX=/media/sp/lx/ubuntu/optimal/devel -DCMAKE_INSTALL_PREFIX=/media/sp/lx/ubuntu/optimal/install -G Unix Makefiles

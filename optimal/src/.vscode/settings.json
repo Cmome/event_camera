@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/sp/lx/ubuntu/optimal/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "files.associations": {
+        "iosfwd": "cpp"
+    }
+}

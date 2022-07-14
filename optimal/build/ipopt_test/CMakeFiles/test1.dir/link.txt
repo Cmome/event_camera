@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test1.dir/src/test.cpp.o -o /media/sp/lx/ubuntu/optimal/devel/lib/ipopt_test/test1   -L/usr/local/lib 

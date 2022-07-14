@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/usr/src/gtest/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/gmock/src/gmock-all.cc",
+  "file": "/usr/src/gmock/src/gmock-all.cc"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/gmock/src/gmock_main.cc",
+  "file": "/usr/src/gmock/src/gmock_main.cc"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/usr/src/gtest/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/gmock/include -I/usr/src/gmock -I/usr/src/gtest/include -I/usr/src/gtest -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/gmock/src/gmock-all.cc",
+  "file": "/usr/src/gmock/src/gmock-all.cc"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/gtest/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/gtest/src/gtest_main.cc",
+  "file": "/usr/src/gtest/src/gtest_main.cc"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/gtest/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/optimal_event",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"optimal_event\\\" -I/media/sp/lx/ubuntu/optimal/src/optimal_event/include -I/media/sp/lx/ubuntu/optimal/devel/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -g -o CMakeFiles/event_node.dir/src/event_node.cpp.o -c /media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_node.cpp",
+  "file": "/media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_node.cpp"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/optimal_event",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"optimal_event\\\" -I/media/sp/lx/ubuntu/optimal/src/optimal_event/include -I/media/sp/lx/ubuntu/optimal/devel/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -g -o CMakeFiles/event_process.dir/src/event_process.cpp.o -c /media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_process.cpp",
+  "file": "/media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_process.cpp"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/optimal_event",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"optimal_event\\\" -I/media/sp/lx/ubuntu/optimal/src/optimal_event/include -I/media/sp/lx/ubuntu/optimal/devel/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -g -o CMakeFiles/event_time.dir/src/event_time.cpp.o -c /media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_time.cpp",
+  "file": "/media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_time.cpp"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/optimal_event",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"optimal_event\\\" -I/media/sp/lx/ubuntu/optimal/src/optimal_event/include -I/media/sp/lx/ubuntu/optimal/devel/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -g -o CMakeFiles/event_txt.dir/src/event_txt.cpp.o -c /media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_txt.cpp",
+  "file": "/media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_txt.cpp"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/optimal_event",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"optimal_event\\\" -I/media/sp/lx/ubuntu/optimal/src/optimal_event/include -I/media/sp/lx/ubuntu/optimal/devel/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -g -o CMakeFiles/event_test.dir/src/event_test.cpp.o -c /media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_test.cpp",
+  "file": "/media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_test.cpp"
+},
+{
+  "directory": "/media/sp/lx/ubuntu/optimal/build/optimal_event",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"optimal_event\\\" -I/media/sp/lx/ubuntu/optimal/src/optimal_event/include -I/media/sp/lx/ubuntu/optimal/devel/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -g -o CMakeFiles/event_pub.dir/src/event_pub.cpp.o -c /media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_pub.cpp",
+  "file": "/media/sp/lx/ubuntu/optimal/src/optimal_event/src/event_pub.cpp"
+}
+]
